@@ -1,2 +1,0 @@
-# docker
-Django docker deployment
